@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Islas de Calor - Dron Olímpico Col2026",
+  "description": "Plataforma de análisis de bio-sensores de dron (CO2, Temp, Hum, Altitud, Cámara térmica) y simulador urbano de islas de calor con mitigación inteligente por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
